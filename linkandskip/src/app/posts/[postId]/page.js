@@ -1,0 +1,13 @@
+// app/posts/[postId]/page.tsx
+// import { useRouter } from 'next/router';
+
+export default function Post() {
+
+
+    return (
+        <div>
+            <h1>Post Page</h1>
+            <p>Display</p>
+        </div>
+    );
+}
